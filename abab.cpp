@@ -134,11 +134,10 @@ int main() {
     cout << "Matrix 1 + Matrix 2:" << endl << matrix3;
 
     Matrix difference = matrix1 - matrix2;
-    cout << "Difference of Matrix 1 and Matrix 2:" << difference << endl;
+    cout << "Difference of Matrix 1 and Matrix 2:" << endl << difference;
 
     Matrix product = matrix1 * matrix2;
-    cout << "Product of Matrix 1 and Matrix 2:" << product << endl;
-    
+    cout << "Product of Matrix 1 and Matrix 2:" << endl << product;
 
     return 0;
 }
