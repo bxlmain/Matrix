@@ -24,6 +24,7 @@
     <ProjectGuid>{c990690e-7d0c-46b1-a29c-3f6227134fb9}</ProjectGuid>
     <RootNamespace>abab</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>matrix</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
